@@ -1,1 +1,2 @@
-print("Belajar Manpro")
+print("Belajar Manpro di hari jumat")
+print("Baris dua")
